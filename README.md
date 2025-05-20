@@ -1,4 +1,4 @@
-# Microsoft Fabric Security Lab: Access Control Implementation
+# Microsoft Fabric Security: Access Control Implementation
 
 This hands-on lab demonstrates how to implement multi-layered security in Microsoft Fabric, covering workspace roles, item-level permissions, and OneLake data access roles.
 

@@ -67,3 +67,9 @@ Restricting access to only necessary resources
 
 1. Remove test user assignments
 2. Delete workspace via Settings → Remove workspace
+
+### 👤 Author: Sefa Öztürk
+
+IT Intern | Azure Data Engineer (Ongoing)
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
